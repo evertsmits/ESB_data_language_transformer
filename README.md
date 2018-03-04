@@ -9,7 +9,7 @@ npm install jsontoxml
 npm install xml-js
 
 # How to run
-node app.js
+node app.js in terminal
 
 # How to test
 Use postman to make post calls to the api in the form of
@@ -19,3 +19,6 @@ yourlocalnetworkip:3000/JSON
 
 for converting XML to JSON post XML (in the body of postman call) to this address
 yourlocalnetworkip:3000/XML
+
+# Where are results shown
+Results are logged in the terminal
