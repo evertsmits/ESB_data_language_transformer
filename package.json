@@ -1,0 +1,18 @@
+{
+  "name": "ESB-system",
+  "version": "1.0.0",
+  "description": "ESB for school assignment. This will be a server converting JSON to XML and XML to JSON.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "file:node_modules/body-parser",
+    "body-parser-xml": "^1.1.0",
+    "jsontoxml": "^1.0.0",
+    "xml-js": "^1.6.2"
+  }
+}
